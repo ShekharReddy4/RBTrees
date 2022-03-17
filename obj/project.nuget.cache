@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NoJt5GalJGKnraqq+mXXxiA0WAeWBPX/zLZJlZ3OlC5bGjrJK5G9Q2tq+6LkyRd134JM5V5zVnVt8bTe3ga8Ow==",
+  "dgSpecHash": "EcuPH1LyG2XjFV8FKckmmDh76Bw5fF/iCFHfHiBm8twQRGEa39ZsPL2C7PkpVHWH+cK20TT7sjEg8CE/hoeIOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bharathkumar.puram\\source\\repos\\RedBlackTrees\\RedBlackTrees\\RedBlackTrees.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/shekharreddymittapelly/Desktop/RBTree/RedBlackTrees.csproj",
+  "expectedPackageFiles": [
+    "/Users/shekharreddymittapelly/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/shekharreddymittapelly/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/shekharreddymittapelly/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
